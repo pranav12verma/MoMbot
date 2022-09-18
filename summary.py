@@ -41,3 +41,7 @@ for sentence in sentences:
     if (sentence in sentenceWeight) and (sentenceWeight[sentence] > (1.2 * average)):
         summary += "" + sentence
 print(summary)
+output_file_name = file_name.split(".")[0]
+with open("./result/"+output_file_name+"-result"+".txt", "w", encoding="utf8") as external_file:
+    print(summary, file=external_file)
+    external_file.close()
