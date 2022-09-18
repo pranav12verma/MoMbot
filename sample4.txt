@@ -1,0 +1,21 @@
+Customer: Hello, I would like to rent a car. Have you got any cars available?
+
+Clerk: Have you made a reservation?
+
+Customer: No.
+
+Clerk: Let me see. What type of car do you need?
+
+Customer: What are my options?
+
+Clerk: We have both small and large cars.
+
+Customer: How many does a large car seat?
+
+Clerk: It should seat 12 people.
+
+Customer: OK. I’ll take a large car.
+
+Clerk: How long will you be renting the car?
+
+Customer: I’ll need it for four days.

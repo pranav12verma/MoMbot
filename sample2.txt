@@ -1,0 +1,17 @@
+﻿Person 1: “Hello.  This is Claire.  How may I assist you?”
+
+Person 2: “Hi.  It’s Samantha.  Is Harry available?”
+
+Person 1: “I’m afraid not.  Could I take a message and have him call you back?”
+
+Person 2: “Sure.  Please tell him Samantha called.”
+
+Person 1: “OK.  I will.  What’s your number?”
+
+Person 2: “It’s 00 7783225”
+
+Person 1: “Great.  I’ll get him to call you.”
+
+Person 2: “Thank you so much.  Bye.’
+
+Person 1: “Have a great day!”

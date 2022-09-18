@@ -1,0 +1,17 @@
+Customer: Excuse me?
+
+Waiter: Yes, Sir. Are you ready to order yet?
+
+Customer: Yes, I’d like to order butter chicken with black lentils and Naans, please.
+
+Waiter: Would you like anything to drink with your meal?
+
+Customer: Yes, just a bottle of mineral water, please.
+
+Waiter: Would you like anything for dessert?
+
+Customer: Yes, two ice-creams please.
+
+Waiter: Is that all?
+
+Customer: Yes, that’s it.

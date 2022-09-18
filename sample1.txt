@@ -1,0 +1,45 @@
+Waiter: Welcome, sir. Please have a seat.
+
+Customer: Thank you.
+
+Waiter: How can I help you sir?
+
+Customer: Could I see your menu card before ordering something?
+
+Waiter: Sure! Sir this is our menu card.
+
+Customer: Could you please tell me the famous dish of your restaurant?
+
+Waiter: Sure! What would you prefer, veg or non veg?
+
+Customer: Non veg.
+
+Waiter: Roasted spicy chicken is one of the best dishes we serve.
+
+Customer: Get that one.
+
+Waiter: Anything in beverage?
+
+Customer: Yes one coke.
+
+Waiter: Very well, sir.
+
+Customer: How long will it take?
+
+Waiter: It will take 20 to 25 minutes.
+
+Customer: Excuse me! I forgot to mention one thing.
+
+Waiter: Yes, please tell me.
+
+Customer: I want coke without ice.
+
+Waiter: Sure, sir.
+
+Customer: Meanwhile could I get something to read?
+
+Waiter: What would you like to read sir?
+
+Customer: Can I get a magazine.
+
+Waiter: Yeah sure.
